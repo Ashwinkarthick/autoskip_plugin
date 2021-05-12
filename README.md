@@ -12,3 +12,11 @@ The initial code was written by Juhana Kommeri as part of his master thesis "Com
 The code was improved with help from Jaishankar Natarajan.
 
 Autoinsert plugin is available at https://github.com/Ashwinkarthick/autoinsert_plugin
+
+
+# How to use
+
+The plugin has three options
+1. target bps between skips      - number of base pairs between each skip site.
+2. number of skips               - introduces specified number of skips at every target site (Maximum 2)
+3. minimum dist from edge        - distance from the initial edge crossover between the first two helices. 
