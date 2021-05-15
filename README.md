@@ -2,7 +2,7 @@
 
 The plugin works with the cadnano2-pyqt5: feel free to modify it to other versions- it should be relatively straight forward.
 
-Clone the autoinsert repository: git clone git@github.com:Ashwinkarthick/autoskip_plugin.git to the plugins folder inside the cadnano2-pyqt5 folder.
+Clone the autoinsert repository: 'git clone git@github.com:Ashwinkarthick/autoskip_plugin.git' to the plugins folder inside the cadnano2-pyqt5 folder.
 You can also download and manually place it inside cadnano2-pyqt5/plugins
 
 One can also create a symbolic link if preferred.
